@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p60954-e490702.adobeaemcloud.com/bin/franklin.delivery/carahtron/wkndUE/main"
+    url: "https://author-p60954-e490702.adobeaemcloud.com/"
     type: "markup"
     suffix: ".html"
